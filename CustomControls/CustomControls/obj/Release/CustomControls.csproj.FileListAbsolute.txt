@@ -1,0 +1,14 @@
+E:\Projects\C#\YT\005\CustomControls\CustomControls\bin\Release\CustomControls.dll
+E:\Projects\C#\YT\005\CustomControls\CustomControls\bin\Release\CustomControls.pdb
+E:\Projects\C#\YT\005\CustomControls\CustomControls\obj\Release\CustomControls.MasterForm.resources
+E:\Projects\C#\YT\005\CustomControls\CustomControls\obj\Release\CustomControls.csproj.GenerateResource.Cache
+E:\Projects\C#\YT\005\CustomControls\CustomControls\obj\Release\CustomControls.dll
+E:\Projects\C#\YT\005\CustomControls\CustomControls\obj\Release\CustomControls.pdb
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\CustomControls\CustomControls\bin\Release\CustomControls.dll
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\CustomControls\CustomControls\bin\Release\CustomControls.pdb
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\CustomControls\CustomControls\obj\Release\CustomControls.csprojAssemblyReference.cache
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\CustomControls\CustomControls\obj\Release\CustomControls.MasterForm.resources
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\CustomControls\CustomControls\obj\Release\CustomControls.csproj.GenerateResource.cache
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\CustomControls\CustomControls\obj\Release\CustomControls.csproj.CoreCompileInputs.cache
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\CustomControls\CustomControls\obj\Release\CustomControls.dll
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\CustomControls\CustomControls\obj\Release\CustomControls.pdb

@@ -1,0 +1,19 @@
+E:\Projects\C#\YT\005\Plugin\Plugin\bin\Release\Plugin.dll
+E:\Projects\C#\YT\005\Plugin\Plugin\bin\Release\Plugin.pdb
+E:\Projects\C#\YT\005\Plugin\Plugin\bin\Release\CustomControls.dll
+E:\Projects\C#\YT\005\Plugin\Plugin\bin\Release\CustomControls.pdb
+E:\Projects\C#\YT\005\Plugin\Plugin\obj\Release\Plugin.PluginForm.resources
+E:\Projects\C#\YT\005\Plugin\Plugin\obj\Release\Plugin.csproj.GenerateResource.Cache
+E:\Projects\C#\YT\005\Plugin\Plugin\obj\Release\Plugin.dll
+E:\Projects\C#\YT\005\Plugin\Plugin\obj\Release\Plugin.pdb
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\Plugin\Plugin\bin\Release\Plugin.dll
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\Plugin\Plugin\bin\Release\Plugin.pdb
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\Plugin\Plugin\bin\Release\CustomControls.dll
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\Plugin\Plugin\bin\Release\CustomControls.pdb
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\Plugin\Plugin\obj\Release\Plugin.csprojAssemblyReference.cache
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\Plugin\Plugin\obj\Release\Plugin.PluginForm.resources
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\Plugin\Plugin\obj\Release\Plugin.csproj.GenerateResource.cache
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\Plugin\Plugin\obj\Release\Plugin.csproj.CoreCompileInputs.cache
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\Plugin\Plugin\obj\Release\Plugin.csproj.CopyComplete
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\Plugin\Plugin\obj\Release\Plugin.dll
+D:\Projects\C#\YT\SolveEverything.exe\005 - Basic Plugin Form\Plugin\Plugin\obj\Release\Plugin.pdb
